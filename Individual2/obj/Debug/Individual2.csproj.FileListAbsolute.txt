@@ -1,0 +1,10 @@
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\bin\Debug\Individual2.exe.config
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\bin\Debug\Individual2.exe
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\bin\Debug\Individual2.pdb
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\obj\Debug\Individual2.csproj.AssemblyReference.cache
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\obj\Debug\Individual2.Form1.resources
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\obj\Debug\Individual2.Properties.Resources.resources
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\obj\Debug\Individual2.csproj.GenerateResource.cache
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\obj\Debug\Individual2.csproj.CoreCompileInputs.cache
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\obj\Debug\Individual2.exe
+C:\Users\amirk\OneDrive\Рабочий стол\CompGraphicsLab_Ind2-master\Individual2\Individual2\obj\Debug\Individual2.pdb
